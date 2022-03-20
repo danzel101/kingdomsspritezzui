@@ -1,7 +1,7 @@
 /* Customize your main colors in :root variables */
 :root {
   --main-background-color: #343A50;
-  --card-background-color: #51576D;
+  --card-background-color: #19191a;
   --card-background-lighter-color: #7A7F92;
   --main-text-color:#F7F6F4;
   --title-text-color:#3CBA8B;
@@ -9,8 +9,8 @@
 
 body{
   background-color:var(--main-background-color);
-  /*background: url("img/background.png");
-  background-size: cover;*/
+  background: url("img/star.png");
+  background-size: cover;
 
   font-family: 'Patrick Hand', cursive;
   font-size: 1.1em;
